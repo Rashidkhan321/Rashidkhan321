@@ -15,7 +15,7 @@
    <a href="https://www.instagram.com/rashidkhan207">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="linkedin.com/in/rashhid-khan-005182278">
+   <a href="https://www.linkedin.com/in/rashhid-khan-005182278/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
   
